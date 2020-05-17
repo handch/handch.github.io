@@ -1,2 +1,2 @@
-# handche.github.io
+# handch.github.io
 Data Science Portfolio
